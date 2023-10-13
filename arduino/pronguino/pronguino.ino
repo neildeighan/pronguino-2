@@ -1,6 +1,8 @@
 /**
   pronguino.ino - Main file for controllers
 
+  https://neildeighan.com/pronguino-2/
+
   Parts required:
   - 2 x 10 kilohm potentiometers
 
