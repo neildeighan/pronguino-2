@@ -3,7 +3,7 @@
  *
  * Processing Pong with Arduino
  *
- * https://neildeighan.com/pronguino-1/
+ * https://neildeighan.com/pronguino-2/
  *
  * @author  Neil Deighan
  */
